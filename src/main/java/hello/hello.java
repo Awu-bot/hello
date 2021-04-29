@@ -3,10 +3,13 @@ package hello;
 public class hello {
 public static void main(String[] args) {
 	System.out.println("Hello world!");
-	hhh
+dfsd
 	System.out.println("Hi!Jack");
-	hh
+
+hh
 	System.out.println("Oh!it is wonderful!");
-	jj
+
+
+lk
 }
 }
